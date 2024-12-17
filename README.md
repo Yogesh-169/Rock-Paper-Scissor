@@ -54,7 +54,7 @@ Rock-Paper-Scissor/
 
 1. Clone the repository:
    
-   git clone https://github.com/Yogesh-a69/Rock-Paper-Scissor-JS.git
+   git clone https://github.com/Yogesh-169/Rock-Paper-Scissor-JS.git
    
 2. Navigate to the project folder
    
