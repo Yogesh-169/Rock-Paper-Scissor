@@ -38,6 +38,7 @@ This is a simple **Rock-Paper-Scissor** game built with **HTML**, **CSS**, and *
 ## 📁 Project Structure
 
 Rock-Paper-Scissor/ 
+
 │ 
 
 ├── index.html # Main HTML file 
